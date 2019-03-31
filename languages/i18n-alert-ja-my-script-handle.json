@@ -1,0 +1,9 @@
+{
+  "domain": "i18n-alert",
+  "locale_data": {
+    "i18n-alert": {
+      "": { "domain": "i18n-alert" },
+      "Hello!": ["こんにちは！"]
+    }
+  }
+}
